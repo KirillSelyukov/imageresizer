@@ -1,0 +1,5 @@
+node_modules
+.claude
+backend/resized/*
+backend/uploads/*
+backend/jobs.db
