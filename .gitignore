@@ -1,5 +1,21 @@
 node_modules
 .claude
-backend/resized/*
-backend/uploads/*
+
+# uploaded and processed files
+backend/uploads/
+backend/resized/
+
+# database
 backend/jobs.db
+backend/jobs.db-shm
+backend/jobs.db-wal
+
+# build output
+frontend/dist
+
+# env files
+.env
+.env.local
+
+# OS
+.DS_Store
